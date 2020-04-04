@@ -7,3 +7,5 @@ New scenes like the menu and control options are to be added
 Scores are left to be added
 
 ![Image description](https://github.com/kakarot98/cube-fall-game/blob/master/Screenshot.png)
+
+![](Game scene record.gif)

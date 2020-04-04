@@ -8,4 +8,4 @@ Scores are left to be added
 
 ![Image description](https://github.com/kakarot98/cube-fall-game/blob/master/Screenshot.png)
 
-![](Game scene record.gif)
+![](https://github.com/kakarot98/cube-fall-game/blob/master/Game scene record.gif)
